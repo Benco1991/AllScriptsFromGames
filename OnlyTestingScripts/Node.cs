@@ -1,5 +1,4 @@
 using System.Collections.Generic;
-//test
 using UnityEngine;
 
 public class Node : MonoBehaviour
